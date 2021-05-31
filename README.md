@@ -2,7 +2,7 @@
 This is the code of our paper An Efficient Training Approach for Very Large Scale Face Recognition or F²C for simplicity.
 
 
-Training on ultra-large-scale2datasets is time-consuming and takes up a lot of hardware resource. Therefore we design a dul-data loaders and dynamic class pool to deal with large-scale face classification.
+Training on ultra-large-scale datasets is time-consuming and takes up a lot of hardware resource. Therefore we design a dul-data loaders and dynamic class pool to deal with large-scale face classification.
 
 ***Pipeline***
 
