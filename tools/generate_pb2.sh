@@ -1,1 +1,1 @@
-protoc --python_out=. datum_def.proto
+protoc --python_out=. datum_def_pb2.proto
